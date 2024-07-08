@@ -10,7 +10,7 @@ demo, you definitely will want to read them to learn how to integrate the agent
 into your application!
 
 The [runtime monitoring tool is open source](https://github.com/snyk/java-runtime-agent).
-The documentation on how to get started with contributing to the agent is hosted
+The documentation on how to get started with contributing to the agent is hosted 
 on that project.
 
 
