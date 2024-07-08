@@ -5,7 +5,7 @@ An intentionally vulnerable application, to test
 
 [The docs](https://snyk.io/docs/runtime-protection/)
 there explain what the tool achieves. You might want to read them before
-continuing, to get a feel for what this demo is going to show. Once you've run the
+continuing, to get a feel for what this demo is going to show. Once you've run the 
 demo, you definitely will want to read them to learn how to integrate the agent
 into your application!
 
